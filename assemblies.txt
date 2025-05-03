@@ -1,0 +1,4 @@
+stringtie/old_01.transcripts.gtf
+stringtie/old_02.transcripts.gtf
+stringtie/young_01.transcripts.gtf
+stringtie/young_02.transcripts.gtf
